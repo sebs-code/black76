@@ -1,0 +1,23 @@
+[
+  {
+    "model": "minihub.company",
+    "pk": 1,
+    "fields": {
+      "name": "Blue Company"
+    }
+  },
+  {
+    "model": "minihub.company",
+    "pk": 2,
+    "fields": {
+      "name": "Green Company"
+    }
+  },
+  {
+    "model": "minihub.company",
+    "pk": 3,
+    "fields": {
+      "name": "Purple Company"
+    }
+  }
+]

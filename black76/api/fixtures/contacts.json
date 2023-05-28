@@ -1,0 +1,47 @@
+[
+  {
+    "model": "minihub.contact",
+    "pk": 1,
+    "fields": {
+      "first_name": "Mian",
+      "last_name": "Ali",
+      "company": 1
+    }
+  },
+  {
+    "model": "minihub.contact",
+    "pk": 2,
+    "fields": {
+      "first_name": "Catherine",
+      "last_name": "Ashton",
+      "company": 1
+    }
+  },
+  {
+    "model": "minihub.contact",
+    "pk": 3,
+    "fields": {
+      "first_name": "Claudia",
+      "last_name": "Castiglione",
+      "company": 2
+    }
+  },
+  {
+    "model": "minihub.contact",
+    "pk": 4,
+    "fields": {
+      "first_name": "Stephen",
+      "last_name": "Grey",
+      "company": 2
+    }
+  },
+  {
+    "model": "minihub.contact",
+    "pk": 5,
+    "fields": {
+      "first_name": "Zhao",
+      "last_name": "Ma",
+      "company": 3
+    }
+  }
+]
